@@ -1,5 +1,9 @@
 toto
 james
 
+<<<<<<< 3857d83655e721d89bb3ea8b71d51007daae0c14
 
 new haha
+=======
+....
+>>>>>>> my version
